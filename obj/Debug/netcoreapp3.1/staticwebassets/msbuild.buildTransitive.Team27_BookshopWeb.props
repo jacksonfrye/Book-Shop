@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Team27_BookshopWeb.props" />
+</Project>
